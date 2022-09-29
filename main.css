@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(39, 188, 39);
+}
+
+header {
+    margin: 5px 0;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+
+button {
+    margin-left: 10px;
+    border-radius: 5px;
+    background-color: rgb(184, 184, 55);
+    cursor: pointer;
+}
+
+.abc {
+    margin-top: 50px;
+    display: flex;
+    gap: 200px;
+    width: 150px;
+}
+
+.container {
+    /* display: flex; */
+    text-align: center;
+}
+
+.btn.dropdown-toggle  {
+    width:150px;
+    text-align:left;
+}
+
+span.caret {
+    position: absolute;
+    left: 90%;
+    top: 45%;
+}
+
+label {
+    padding-top:5px;
+}
+
+.form-label {
+    padding-left:0px !important;
+}
+
+img {
+    width:140px;
+    height:140px;
+}
+
+.btn-success {
+    background-color: #3064dd!important;
+}
+
+.btn-success:hover {
+    background-color: #653eff!important;
+}
+
+img.track {
+    border: 1px solid #8a8a8a;
+}
